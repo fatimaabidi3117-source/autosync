@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AutoSync:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoSync_jar</output-path>
+    <root id="archive" name="AutoSync.jar">
+      <element id="module-output" name="AutoSync" />
+    </root>
+  </artifact>
+</component>
